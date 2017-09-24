@@ -1,7 +1,7 @@
 Original Design
 ===============
 
-This assignment is similar to the previous Sample Assignment. You may find [slides](https://drive.google.com/file/d/0ByC9Jv9OkYcJNFRkdkhOejJrUVU/view?usp=sharing) 72 to 143 in the PDF file helpful. Start by logging into GitHub and forking [this](https://github.com/APCS-Curriculum/pOriginalDesign1) repository.  
+This assignment is similar to the previous Sample Assignment. You may find [slides](https://drive.google.com/file/d/0ByC9Jv9OkYcJNFRkdkhOejJrUVU/view?usp=sharing) 72 to 143 in the PDF file helpful. Start by logging into GitHub and forking [this](https://github.com/treinartz2/originalDesign) repository.  
 
 Now, modify the Java code in the `OriginalDesign.pde` file to create your own design using the Processing graphics functions. Your program should use a variety of the [Processing graphics functions](https://processing.org/reference/). You will also
 define four functions:  
